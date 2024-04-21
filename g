@@ -1,4 +1,3 @@
-local function AutoDungeon()
 local positions = {
     CFrame.new(3277, 713, -548),
     CFrame.new(3259, 713, -588),
